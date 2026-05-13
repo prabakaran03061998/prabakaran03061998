@@ -1,78 +1,203 @@
-# Hi 👋, I'm Prabakaran Sasikumar
-### 🚀 Senior Full Stack Developer | Flutter Specialist | 5+ Years Experience
+# Prabakaran Sasikumar
 
-![Profile Views](https://komarev.com/ghpvc/?username=prabakaran03061998&label=Profile%20Views&color=0e75b6&style=flat)
+Senior Full Stack Java Developer | Spring Boot | React.js | Flutter
 
----
-
-## 👨‍💻 Professional Summary
-💼 5+ Years of experience in designing and developing scalable web & mobile applications  
-⚡ Expertise in Java Spring Boot, React, and Flutter  
-🏗️ Strong focus on clean architecture, performance optimization, and scalability  
-👥 Proven experience in team leadership and mentoring developers  
-🌐 Portfolio: https://prabakaran0306.netlify.app/  
+![Profile Views](https://komarev.com/ghpvc/?username=prabakaran03061998\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 ---
 
-## 🚀 Current Focus
-- Flutter Mobile App Development  
-- Scalable SaaS Product Development  
-- Performance Optimization  
-- Clean Code & System Design  
+## About Me
+
+Experienced Full Stack Java Developer with 5+ years of expertise in designing, developing, and deploying scalable web and mobile applications.
+
+Strong experience in:
+
+* Java
+* Spring Boot
+* Microservices
+* React.js
+* Flutter
+* PostgreSQL
+* Redis
+* AWS
+* Docker
+* CI/CD Pipelines
+
+Focused on building secure, scalable, and high-performance enterprise applications with clean architecture and optimized system design.
+
+Portfolio:
+https://prabakaran0306.netlify.app/
 
 ---
 
-## 🔗 Connect With Me
-- Email: prabakaransasikumar03061998@gmail.com  
-- Topcoder: https://www.topcoder.com/members/621011  
+## Current Focus
+
+* Spring Boot Enterprise Applications
+* Scalable Microservices Architecture
+* Flutter Mobile Application Development
+* Performance Optimization
+* Clean Code & System Design
+* Cloud Deployment & DevOps
 
 ---
 
-## 🛠️ Tech Stack
-Java, Spring Boot, React, Node.js, Flutter, MongoDB, MySQL, PostgreSQL, AWS, Docker, Firebase, Figma, JavaScript  
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/prabakaran-sasikumar-459337245/
+
+Email:
+[prabakaransasikumar03061998@gmail.com](mailto:prabakaransasikumar03061998@gmail.com)
+
+Topcoder:
+https://www.topcoder.com/members/621011
 
 ---
 
-## 📊 GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=prabakaran03061998&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabakaran03061998&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabakaran03061998&layout=compact&theme=tokyonight)
+## Technical Skills
+
+### Backend
+
+* Java
+* Spring Boot
+* Microservices
+* REST APIs
+* Hibernate
+* JWT Authentication
+
+### Frontend
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Flutter
+* Material UI
+
+### Database
+
+* PostgreSQL
+* MySQL
+* Redis
+* MongoDB
+
+### DevOps & Tools
+
+* Docker
+* Jenkins
+* AWS
+* Git
+* GitHub
+* GitLab
+* Maven
+* Postman
+* Firebase
 
 ---
 
-## 🏆 Achievements
-- Led a team of 5+ developers, improving delivery speed by 25%  
-- Optimized applications resulting in 40% faster performance  
-- Implemented secure authentication using JWT & Spring Security  
-- Deployed scalable systems using AWS, Docker & CI/CD pipelines  
+## Professional Experience
+
+### Senior Software Developer
+
+Glitzern Technology Pvt Ltd
+June 2025 – Present
+
+* Developing Flutter applications for Android and iOS
+* Integrating APIs and optimizing mobile performance
+* Supporting junior developers and collaborating with teams
+
+### Full Stack Developer & Technical Lead
+
+LoginIQ Technologies
+June 2024 – June 2025
+
+* Led a team of 15+ developers
+* Developed enterprise applications using Spring Boot and React.js
+* Conducted internal Java training sessions
+* Improved application performance by 30%
+
+### Project Associate – Java Backend Developer
+
+Abytz Tech Solutions India Pvt Ltd
+February 2021 – March 2024
+
+* Developed scalable REST APIs and Microservices
+* Worked with PostgreSQL, MySQL, and Redis
+* Collaborated with QA automation and deployment validation
+
+### Java Developer Intern
+
+Abytz Tech Solutions India Pvt Ltd
+December 2020 – February 2021
+
+* Assisted in backend development
+* Debugged and supported critical application modules
 
 ---
 
-## 💼 Experience
-- Senior Software Developer (2025 – Present)  
-- Tech Lead (2024 – 2025)  
-- Project Associate (2021 – 2024)  
-- Internship (2020 – 2021)  
+## Key Projects
+
+### BISCA360
+
+Business automation platform for attendance, payment, and contract management with secure transaction handling and XSS protection.
+
+### QUOTREF
+
+Quotation and invoice management system with automated PDF/Excel generation and audit tracking.
+
+### CRM360
+
+CRM platform for managing student records, analytics, and role-based access control.
+
+### RULER
+
+Centralized authentication and authorization system using JWT and Spring Security.
 
 ---
 
-## 🚀 Key Projects
-- CRM System – Customer & Lead Management  
-- BISCA360 – Business Operations Platform  
-- QUOTREF – Quotation Management System  
-- RULER – Role-based Authentication System  
-- NavCado – Data Processing API  
+## GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=prabakaran03061998\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabakaran03061998\&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabakaran03061998\&layout=compact\&theme=tokyonight)
 
 ---
 
-## ⚡ Strengths
-- Clean Architecture & Scalable Design  
-- Full Stack Development (Java + React)  
-- Flutter Cross-platform Apps  
-- API Design & Integration  
-- DevOps & Cloud Deployment  
+## Achievements
+
+* Led development teams and improved delivery efficiency
+* Optimized enterprise applications for better performance
+* Implemented secure authentication using JWT & Spring Security
+* Deployed scalable systems using AWS, Docker, and CI/CD pipelines
 
 ---
 
-## 💬 Developer Mindset
-Build scalable systems. Deliver real business value.
+## Core Strengths
+
+* Backend Architecture & Microservices
+* Full Stack Development
+* Flutter Cross-platform Applications
+* REST API Design & Integration
+* Cloud Deployment & DevOps
+* Performance Optimization
+* Team Leadership & Mentoring
+
+---
+
+## Education
+
+Bachelor of Engineering in Computer Science
+Anna University
+2017 – 2020
+
+Diploma in Computer Engineering
+DOTE
+2015 – 2017
+
+---
+
+## Developer Mindset
+
+Build scalable systems. Write clean code. Deliver business value.
